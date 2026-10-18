@@ -1,0 +1,20 @@
+{
+  "id": "growth-stages",
+  "name": "Growth Stages",
+  "version": "1.0.0",
+  "description": "Shows each note's maturity as a growth stage: seedling, budding, or evergreen. Set it with growth: seedling in a note's frontmatter.",
+  "author": "Ole Eskild Steensen",
+  "slots": {
+    "notes.header": "templates/badge.njk"
+  },
+  "styles": ["styles/badge.scss"],
+  "settings": [
+    {
+      "key": "showLabel",
+      "name": "Show stage name",
+      "description": "Show the stage name next to the emoji.",
+      "type": "boolean",
+      "default": true
+    }
+  ]
+}

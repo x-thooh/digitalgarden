@@ -1,0 +1,8 @@
+{#- Published notes carry user frontmatter under noteProps; raw/local notes have it top-level -#}
+{%- set gpGrowth = (noteProps and noteProps.growth) or growth -%}
+{%- if gpGrowth === "seedling" or gpGrowth === "budding" or gpGrowth === "evergreen" -%}
+<div class="gp-growth-badge is-{{ gpGrowth }}" title="This note is a {{ gpGrowth }}">
+  {%- if gpGrowth === "seedling" -%}🌱{%- elif gpGrowth === "budding" -%}🌿{%- else -%}🌳{%- endif -%}
+  {%- if pluginSettings.showLabel %} <span class="gp-growth-label">{{ gpGrowth }}</span>{% endif -%}
+</div>
+{%- endif -%}

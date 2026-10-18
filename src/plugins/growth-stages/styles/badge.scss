@@ -1,0 +1,16 @@
+.gp-growth-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 2px 10px;
+  margin: 4px 0;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  border: 1px solid var(--background-modifier-border, rgba(128, 128, 128, 0.3));
+  background: var(--background-secondary, rgba(128, 128, 128, 0.1));
+
+  .gp-growth-label {
+    text-transform: capitalize;
+    opacity: 0.85;
+  }
+}
