@@ -26,6 +26,32 @@
         "src/plugins/image-lightbox/styles/lightbox.scss",
         "src/plugins/image-lightbox/templates/lightbox.njk"
       ]
+    },
+    "share-qr": {
+      "repo": "palol/garden-plugin-share-qr",
+      "installedVersion": "1.0.2",
+      "installedRef": "v1.0.2",
+      "installedAt": "2026-10-18T14:12:09.144Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/share-qr/LICENSE",
+        "src/plugins/share-qr/README.md",
+        "src/plugins/share-qr/build.js",
+        "src/plugins/share-qr/dialog.js",
+        "src/plugins/share-qr/garden-plugin.json",
+        "src/plugins/share-qr/index.js",
+        "src/plugins/share-qr/package-lock.json",
+        "src/plugins/share-qr/package.json",
+        "src/plugins/share-qr/screenshot.png",
+        "src/plugins/share-qr/styles.css",
+        "src/plugins/share-qr/templates/dialog.njk",
+        "src/plugins/share-qr/templates/trigger.njk",
+        "src/plugins/share-qr/test/plugin.test.js",
+        "src/plugins/share-qr/test/ui.test.js",
+        "src/plugins/share-qr/vendor/LICENSE.qrcode-generator",
+        "src/plugins/share-qr/vendor/qrcode-generator.js",
+        "src/plugins/share-qr/vitest.config.js"
+      ]
     }
   }
 }
