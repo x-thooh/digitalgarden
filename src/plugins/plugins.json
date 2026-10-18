@@ -1,18 +1,4 @@
 {
   "version": 1,
-  "plugins": {
-    "growth-stages": {
-      "repo": "oleeskild/garden-plugin-growth-stages",
-      "installedVersion": "1.0.0",
-      "installedRef": "v1.0.0",
-      "installedAt": "2026-10-18T14:09:17.278Z",
-      "enabled": true,
-      "files": [
-        "src/plugins/growth-stages/README.md",
-        "src/plugins/growth-stages/garden-plugin.json",
-        "src/plugins/growth-stages/styles/badge.scss",
-        "src/plugins/growth-stages/templates/badge.njk"
-      ]
-    }
-  }
+  "plugins": {}
 }
