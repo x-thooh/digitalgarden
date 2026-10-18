@@ -52,6 +52,18 @@
         "src/plugins/share-qr/vendor/qrcode-generator.js",
         "src/plugins/share-qr/vitest.config.js"
       ]
+    },
+    "giscus-comments": {
+      "repo": "oleeskild/garden-plugin-giscus-comments",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-10-18T14:12:42.891Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/giscus-comments/README.md",
+        "src/plugins/giscus-comments/garden-plugin.json",
+        "src/plugins/giscus-comments/templates/comments.njk"
+      ]
     }
   }
 }
