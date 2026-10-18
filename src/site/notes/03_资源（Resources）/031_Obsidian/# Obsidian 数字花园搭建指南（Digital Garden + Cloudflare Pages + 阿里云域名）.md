@@ -1,5 +1,5 @@
 ---
-{"tags":["obsidian","digital-garden","cloudflare","运维"],"date":"2026-10-18","dg-publish":true,"permalink":"/03-resources/031-obsidian/obsidian-digital-garden-cloudflare-pages/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["obsidian","digital-garden","cloudflare","运维"],"date":"2026-10-18"}}
+{"dg-publish":true,"permalink":"/03-resources/031-obsidian/obsidian-digital-garden-cloudflare-pages/","tags":["obsidian","digital-garden","cloudflare","运维"],"dg-note-properties":{"tags":["obsidian","digital-garden","cloudflare","运维"],"date":"2026-10-18"}}
 ---
 
 
